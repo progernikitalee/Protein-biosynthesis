@@ -1,4 +1,4 @@
-a = str(input("Введите цепь: "))
+a = str(input("Введите последовательность нуклеотидов в цепи: "))
 a = a.upper()
 
 replaced_text = a.replace("А", "*").replace("Т", "А").replace("*", "Т").replace("Г", "*").replace(
