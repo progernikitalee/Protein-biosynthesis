@@ -25,8 +25,8 @@ replaced_text7 = a.replace("УУУ", "Фен").replace("УУЦ", "Фен").repla
                                                                        "Лей").replace(
     "УУГ", "Лей").replace("УЦУ", "Сер").replace("УЦЦ", "Сер").replace("УЦА", "Сер").replace(
     "УЦГ", "Сер").replace("УАУ", "Тир").replace("УАЦ", "Тир").replace("УАА",
-                                                                      "-").replace(
-    "УАГ", "-").replace("УГУ", "Цис").replace("УГЦ", "Цис").replace("УГА", "-").replace("УГГ",
+                                                                      "СТОП Кодон").replace(
+    "УАГ", "СТОП Кодон").replace("УГУ", "Цис").replace("УГЦ", "Цис").replace("УГА", "СТОП Кодон").replace("УГГ",
                                                                                         "Три").replace(
     "ЦУУ", "Лей").replace("ЦУЦ", "Лей").replace("ЦУА", "Лей").replace("ЦУГ", "Лей").replace(
     "ЦЦУ", "Про").replace("ЦЦЦ", "Про").replace("ЦЦА", "Про").replace("ЦЦГ", "Про").replace(
